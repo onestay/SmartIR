@@ -1,0 +1,23 @@
+{
+    "manufacturer": "Mitsubishi Electric",
+    "supportedModels": ["SRK25ZS-W"],
+    "supportedController": "Broadlink",
+    "commandsEncoding": "Base64",
+    "minTemperature": 18.0,
+    "maxTemperature": 30.0,
+    "precision": 1.0,
+    "operationModes": [
+        "cool"
+    ],
+    "fanModes": [
+        "auto",
+        "low",
+        "mid",
+        "high",
+        "highest"
+    ],
+    "commands": {
+        "off": "JgA2AWE1DA4MKQsPCw8LKQsPDCgMDgwODCkLKQspDA4MKAwODCkLKQspCw8MDgwODA4MKAwpCw8LKQwODCgMKAwODA8LDwspCw8MKAwODA4MKQspCykLDwwoDCgMKQspCykMKAwoDCkLDwsPCw8LDwwODA4MDgwODCgMDwsPCykLKQwoDCgMKQsPCykMKAwODA4MDgwODCkLKQspDCgSIwspCykLKQwODA4MDgwODA4MDwsPCw8LKQwoDCgMKQspCykLKQwODA4MDgwODA8LDwsPCw8LKQwODCgMDgwpCykLKQwoDA4MKAwPCykLDwsPDA4MDgwoDCkLKQspCykMKAwpCykLKQsPDA4MDgwODA4MDgwODA8LKQspDCgMKAwpCykLKQwODA4MDgwODA4MDgwPCw8LKQsADQU="
+        
+    }
+}
